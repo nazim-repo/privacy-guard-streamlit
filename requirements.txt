@@ -1,6 +1,5 @@
 streamlit
+openai
 transformers
-torch
 langchain
-langchain-community
 regex
